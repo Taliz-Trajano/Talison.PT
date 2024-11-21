@@ -122,6 +122,8 @@ aside > p {
 aside > ul {
     list-style-type: '\2B50\00A0\00A0'; /* nao e todo navegador que aceita*/
     columns: 2;
+
+    
     
 }
 p > a {
