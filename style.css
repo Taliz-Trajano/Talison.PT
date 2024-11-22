@@ -91,6 +91,8 @@ div.video {
 }
 div.video > iframe {
     display: block;
+    max-width: 800px;
+    min-width: 320px;
     margin: auto;
     /* position absolute*/
 }
